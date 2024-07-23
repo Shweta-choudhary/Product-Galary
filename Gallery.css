@@ -1,0 +1,20 @@
+.photo-card {
+    position: relative;
+  }
+  
+  .photo-card p {
+    margin-top: 10px;
+  }
+  
+  .photo-card button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 5px 10px;
+    font-size: 0.8rem;
+    background-color: #f44336;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
